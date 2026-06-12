@@ -12,7 +12,7 @@ SQL Project | Nigerian Fintech Platform | 5,000 Transactions | 1,000 Users
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyses 5,000 financial transactions from a Nigerian fintech platform 
 to uncover patterns in revenue performance, user behaviour and platform reliability.
@@ -27,7 +27,7 @@ and platform improvement.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - SQL Server (SSMS) — primary analysis tool
 - Joins — connecting transaction and user tables
@@ -38,7 +38,7 @@ and platform improvement.
 
 ---
 
-## 📊 Dataset Breakdown
+##  Dataset Breakdown
 
 **transactionz table**
 - transaction_id — unique identifier
@@ -59,7 +59,7 @@ and platform improvement.
 
 ---
 
-## ❓ Business Questions
+##   Business Questions
 
 ### Question 1: What is the overall transaction success rate by status?
 **Purpose:** Understand platform reliability and identify the proportion 
@@ -161,7 +161,7 @@ ORDER BY avg_fee_rate_percentage DESC;
 
 ---
 
-## 💡 Key Insights & Findings
+##  Key Insights & Findings
 
 1. **Transaction Success Rate** — The platform shows a clear breakdown 
 between successful, failed and pending transactions, establishing a 
@@ -196,7 +196,7 @@ geographically diverse user base.
 
 ---
 
-## ✅ Recommendations
+##   Recommendations
 
 1. **Focus on payment transaction users** — despite lower volume, their 
 higher average value makes them a priority segment for retention campaigns.
